@@ -1,10 +1,10 @@
-package com.example.myrecipeapp.ui.theme
+package com.example.myrecipeapp
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.myrecipeapp.Category
+import com.example.myrecipeapp.ui.theme.recipeService
 import kotlinx.coroutines.launch
 import java.lang.Exception
 
